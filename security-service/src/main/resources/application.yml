@@ -1,0 +1,10 @@
+server:
+  port: 8081
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          # Add OAuth2 clients here
+        provider:
+          # Configure OAuth2 providers here
